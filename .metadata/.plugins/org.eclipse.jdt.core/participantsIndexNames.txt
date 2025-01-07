@@ -1,0 +1,29 @@
+INDEX VERSION 1.134
+D:\J2EE project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3724856809.index
+\LabAssignment1_21883\src\main\java
+D:\J2EE project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2525214861.index
+\Electronics_Website2\src
+D:\J2EE project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2203115436.index
+\one\src
+D:\J2EE project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3557248860.index
+\Electronics_Website2\src
+D:\J2EE project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1437545417.index
+\LabAssignment1_21883\src\main\java
+D:\J2EE project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1531439469.index
+\Electronics_Website\src
+D:\J2EE project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2812599129.index
+\Ecommerence\src\main\resources
+D:\J2EE project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3829833457.index
+\YKPT-21883\src\main\java
+D:\J2EE project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1932730867.index
+\EllisonElectronics_Website\src
+D:\J2EE project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1323194574.index
+\Electronics_Website\src
+D:\J2EE project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3386023874.index
+\Ellsion_Ecommerence\src\main\java
+D:\J2EE project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2178942328.index
+\LabAssignment1_21883\src\main\java
+D:\J2EE project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1143344243.index
+\test\src\main\java
+D:\J2EE project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1715711865.index
+\KaungMyatHtun_YKPT-21883\src\main\resources

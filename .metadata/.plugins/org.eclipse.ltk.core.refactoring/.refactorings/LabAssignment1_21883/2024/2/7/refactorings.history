@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy source folder &apos;mysql-connector-java-8.0.26.jar&apos; to &apos;KaungMyatHtun_YKPT-21883&apos;&#x0D;&#x0A;- Original project: &apos;LabAssignment1_21883&apos;&#x0D;&#x0A;- Destination element: &apos;KaungMyatHtun_YKPT-21883&apos;&#x0D;&#x0A;- Original element: &apos;LabAssignment1_21883/mysql-connector-java-8.0.26.jar&apos;" description="Copy source folder" element1="/mysql-connector-java-8.0.26.jar=/module=/true=/" flags="6" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyRoots" roots="1" stamp="1707751240571" target="/KaungMyatHtun_YKPT-21883" version="1.0"/>
+</session>
